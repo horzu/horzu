@@ -1,4 +1,4 @@
-# [![mert sakar header](https://raw.githubusercontent.com/horzu/horzu/blob/main/icons/mert-github.png)](https://horzu.github.io/)
+# [![mert sakar header](https://raw.githubusercontent.com/horzu/horzu/main/icons/mert-github.png)](https://horzu.github.io/)
 
 ### Hi everyone! 👋
 I'm a self-taught Frontend Developer and former Industrial Engineer. After years, I have realised my passion and I decided to be a developer! I've come a long way and there is much progress to be made. 
